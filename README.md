@@ -4,3 +4,4 @@
 - Regras de Negócio 
 - Requisitos Funcionais e Não funcionais 
 - Diagrama  Entidade Relacionamento - DER
+- Dicionario
