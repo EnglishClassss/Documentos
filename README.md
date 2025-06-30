@@ -1,2 +1,2 @@
-# Mer_English_Class
+# Mer
 Modelo Entidade Relacionamento da English Class
