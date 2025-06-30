@@ -1,2 +1,5 @@
-# Mer
-Modelo Entidade Relacionamento da English Class
+# Documentos
+Modelo Entidade Relacionamento - MER
+Regras de Negócio 
+Requisitos Funcionais e Não funcionais 
+Diagrama  Entidade Relacionamento - DER
